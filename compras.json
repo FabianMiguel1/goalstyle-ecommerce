@@ -1,0 +1,19 @@
+[
+  {
+    "id_pedido": "1781365828922",
+    "data": "2026-06-13T15:50:28.922Z",
+    "itens": [
+      {
+        "nome": "Camisa Brasil Home 2026",
+        "preco": "R$ 539,99",
+        "img": "./img/imgbrazil-2026-home-kit.jpg.jpg"
+      },
+      {
+        "nome": "Camisa Argentina Home 2026",
+        "preco": "R$ 427,49",
+        "img": "./img/imgargentina-2026-home-kit.jpg.jpg"
+      }
+    ],
+    "total": 967.48
+  }
+]
